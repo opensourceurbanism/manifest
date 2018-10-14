@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Manifesto v.0.1
+Everybody has to build its own city of a dream. We want to build a city as a shared place, as a commons! City of shared knowledge, shared places, and shared lives. A city as a place to live, to be, to care, and to share. A city which is built by us, and for us. What will this city be about? Depends on you! Depends on us, people, citizens. What, How, When, and Why we embody future city image by producing city together by producing urban fabric. By producing urban space. It's should be a collective choice. Communities should claim their right for the city. They should claim rights for the production of urban fabric. 
 
-You can use the [editor on GitHub](https://github.com/opensourceurbanism/manifest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Urban officials. They suppose they know everything about us! They will make your life better. They dictate us how to live our lives by producing spaces that force us to act as concieved. You can participate in their activities financed by your taxes. Pay your taxes, and for your money, you will participate, at best, in their decision-making process. You are not a producer of your own environment. You are stupid. You are nothing. You have no rights for the city. Correct? If not, you better claim your rights now and build your dream city together with us.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We want to build this utopian, dream city which is more equal, democratic, and resilient; which is free from current ecological, economic, and spocial issues. We need you to build it together. The only representation of all and everybody's as a builder of urban fabric provides commonality of interest, common ground, and a shared platform for everybody.
 
-### Markdown
+If we want physical space that aligned with community needs and wishes we need a tool to conceive urban space ourselves. We need tools for the production of urban fabric, as a manifestation of our right for the city. Open Source Urbanism gives us such tools. Open Source is a digital means of production for a new post-capitalist era. Open source is what open source urbanism is being built upon. Commons is the ground of open source urbanism. The philosophical, ethical and legal ground of Open source urbanism. If we have a means of urban space production that is shared, as commons, by us, citizens, we can build future cities which are not commodified off limits. It gives us hope for a more sustainable and resilient future for us and coming generations. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## ** ** **
 
-```markdown
-Syntax highlighted code block
+We claim that any urban  design worth open sourcing! If it embodied in urban form, built somewhere that it has potential for reproduction. If people, produced something as peers, than probably somewhere on the other side of the Earth another community of peers will reproduce aligning to their needs.
 
-# Header 1
-## Header 2
-### Header 3
+You, peer, do what you feel should be done. Together with other peers do what you believe in. Make this fucking city prettier, better, more democratic, more sensitive, lovable. What do you need from this city? Happiness? Joy? Money? Fame? Trust? Safety? Express yourself! Express your values, your wishes, your dreams through making. Explain to others what you think about, what are your dreams, and build it with others. Integrate your dreams, thoughts, and wishes in the urban fabric.
 
-- Bulleted
-- List
+Our mission, as sensors, as evangelists and enablers of open source urbanism, in to capture and digitalize these projects, and bring it to other peers. To make it reproducible and worth reproduction. Turn the places into objects and processes. We're talking about the privilege of production of urban space. With your knowledge and skills from now on it is not your privilege anymore, but your responsibility to open source cities. You are responsible for making its commons. 
 
-1. Numbered
-2. List
+You, ambassador, with your networks and resources you responsible for reporoduction of any open sourced urban initiative that might fit your city. If you know that some project needed in your city, you might become the project ambassador. Go and build it. Become an ambassador of shared needs and wishes embodied in choisen urban initiative form. Form community of like mined peers with common interests and goals.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/opensourceurbanism/manifest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A city is an ongoing production and reproduction and reimagination of itself. It is always incomplete. Anything which is complete - dead. A city is a living organism. It always reinvents itself for good or bad, for better or worth, does not matter. Open Source is also always in beta, always not finalized. it is always open for a new: propositions, improvements, rebuildings. It neverending story. That's why it plays well along the idea of placemaking and space production. We are pears, distributed all over the Earth but connected by the power of global network and common values, ideas, and dreams. Let's build our dream city together! 
